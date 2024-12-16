@@ -1,0 +1,4 @@
+﻿<Solution>
+  <Project Path="WhatsForDinner.Backend\WhatsForDinner.Backend.csproj" />
+  <Project Path="WhatsForDinner.DataAccess.Postgres\WhatsForDinner.DataAccess.Postgres.csproj" Type="Classic C#" />
+</Solution>
